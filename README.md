@@ -32,7 +32,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![MySQL][MySQL_img]][MySQL_url]
 
 ## Current projects
-As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) turned out exceptionally well, and I am currently enhancing it to be more feature-rich and powerful.
+As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) turned out exceptionally well, I'm currently enhancing it to be more feature-rich and powerful.
 
 
 <!-- Images -->
