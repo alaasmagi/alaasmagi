@@ -12,22 +12,22 @@ I've known my entire life that Information and Communication Technology (ICT) is
 [![JavaScript][JavaScript_img]][JavaScript_url]
 
 ### Frameworks
-[![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![.Net][.Net_img]][.Net_url]
+[![React][React_img]][React_url]
 
 ### Platforms and tools
-[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![Visual Studio][Visual Studio_img]][Visual Studio_url]
+[![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
+[![Azure][Azure_img]][Azure_url]
 
 ### Hardware experience
-[![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+[![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
+[![Arduino][Arduino_img][Arduino_url]
 
 ### Database management
-[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+[![SQLite][SQLite_img][SQLite_url]
+[![MicrosoftSQLServer][MicrosoftSQLServer_img]][MicrosoftSQLServer_url]
+[![MySQL][MySQL_img]][MySQL_url]
 
 
 
