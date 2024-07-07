@@ -1,24 +1,66 @@
 # About me
 
-I've known my entire life that Information and Communication Technology (ICT) is exactly my cup of tea. My journey began at the age of 5, and my passion has only grown stronger with each passing year. Since starting university, I have committed myself to acquiring a broad and deep knowledge base to contribute to the development of future technologies.
+I've known my entire life that Information and Communication Technology (ICT) is exactly my cup of tea. My journey began at the age of 5, and my passion has only grown stronger with each passing year. Since the start of university a computer engineer student, I have committed myself to acquiring a broad and deep knowledge base to contribute to the development of future technologies. In my free time, I enjoy expanding my comfortzone by taking on new challenges and expanding my knowledge of different frameworks and programming languages.
 
-As a Computer Engineering student, I have built a strong foundation in both software and hardware development. I'm proficient in C#, .NET framework, Python, and SQL, and I have hands-on experience with various hardware platforms.
+## Skillset
 
-In my free time, I enjoy expanding my comfort zone by taking on new challenges and expanding my knowledge of different frameworks and programming languages.
+### Porgramming languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frameworks
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Platforms and tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### Hardware experience
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+### Database management
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
-<!--
-**alaasmagi/alaasmagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Images -->
+[C_img]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
+[C#_img]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
+[C++_img]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[Python_img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[JavaScript_img]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[.Net_img]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[React_img]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[Visual Studio_img]: https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white
+[Visual Studio Code_img]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[Azure_img]: https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white
+[Raspberry Pi_img]: https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
+[Arduino_img]: https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
+[SQLite_img]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+[MicrosoftSQLServer_img]: https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+[MySQL_img]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- URLs -->
+[C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
+[C#_url]: https://dotnet.microsoft.com/en-us/languages/csharp
+[C++_url]: https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170
+[Python_url]: https://www.python.org/
+[JavaScript_url]: https://www.javascript.com/
+[.Net_url]: https://dotnet.microsoft.com/en-us/
+[React_url]: https://react.dev/
+[Visual Studio_url]: https://visualstudio.microsoft.com/
+[Visual Studio Code_url]: https://code.visualstudio.com/
+[Azure_url]: https://azure.microsoft.com/en-us
+[Raspberry Pi_url]: https://www.raspberrypi.org/
+[Arduino_url]: https://www.arduino.cc/
+[SQLite_url]: https://www.sqlite.org/
+[MicrosoftSQLServer_url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+[MySQL_url]: https://www.mysql.com/
