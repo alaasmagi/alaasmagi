@@ -1,4 +1,11 @@
-### About me
+# About me
+
+I've known my entire life that Information and Communication Technology (ICT) is exactly my cup of tea. My journey began at the age of 5, and my passion has only grown stronger with each passing year. Since starting university, I have committed myself to acquiring a broad and deep knowledge base to contribute to the development of future technologies.
+
+As a Computer Engineering student, I have built a strong foundation in both software and hardware development. I'm proficient in C#, .NET framework, Python, and SQL, and I have hands-on experience with various hardware platforms.
+
+In my free time, I enjoy expanding my comfort zone by taking on new challenges and expanding my knowledge of different frameworks and programming languages.
+
 
 
 <!--
