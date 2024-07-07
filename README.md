@@ -22,10 +22,10 @@ I've known my entire life that Information and Communication Technology (ICT) is
 
 ### Hardware experience
 [![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
-[![Arduino][Arduino_img][Arduino_url]
+[![Arduino][Arduino_img]][Arduino_url]
 
 ### Database management
-[![SQLite][SQLite_img][SQLite_url]
+[![SQLite][SQLite_img]][SQLite_url]
 [![MicrosoftSQLServer][MicrosoftSQLServer_img]][MicrosoftSQLServer_url]
 [![MySQL][MySQL_img]][MySQL_url]
 
