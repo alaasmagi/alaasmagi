@@ -13,7 +13,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Python][Python_img]][Python_url]
 [![JavaScript][JavaScript_img]][JavaScript_url]
 
-### Frameworks
+### Frameworks and libraries
 [![.Net][.Net_img]][.Net_url]
 [![React][React_img]][React_url]
 
