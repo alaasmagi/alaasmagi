@@ -22,6 +22,8 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Visual Studio][Visual Studio_img]][Visual Studio_url]
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
 [![Azure][Azure_img]][Azure_url]
+[![PhpStorm][PhpStorm_img]][PhpStorm_url]
+[![Rider][Rider_img]][Rider_url]
 
 ### Hardware experience
 [![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
@@ -53,6 +55,8 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [MicrosoftSQLServer_img]: https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 [MySQL_img]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
 [PHP_img]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+[PhpStorm_img]: https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid
+[Rider_img]: https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -71,3 +75,5 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [MicrosoftSQLServer_url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 [MySQL_url]: https://www.mysql.com/
 [PHP_url]: https://www.php.net/
+[PhpStorm_url]: https://www.jetbrains.com/phpstorm/
+[Rider_url]: https://www.jetbrains.com/rider/
