@@ -1,6 +1,6 @@
 # About me
 
-I've known my entire life that Information and Communication Technology (ICT) is exactly my cup of tea. My journey began at the age of 5, and my passion has only grown stronger with each passing year. Since the start of university a computer engineer student, I have committed myself to acquiring a broad and deep knowledge base to contribute to the development of future technologies. In my free time, I enjoy expanding my comfortzone by taking on new challenges and expanding my knowledge of different frameworks and programming languages.
+I've known my entire life that Information and Communication Technology (ICT) is exactly my cup of tea. My journey began at the age of 5, and my passion has only grown stronger with each passing year. Since the start of university as a computer engineer student, I have committed myself to acquiring a broad and deep knowledge base to contribute to the development of future technologies. In my free time, I enjoy expanding my comfortzone by taking on new challenges and expanding my knowledge of different frameworks and programming languages.
 
 Feel free to explore my repositories and get in touch if you have any questions :)
 
