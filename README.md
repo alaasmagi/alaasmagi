@@ -11,6 +11,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![C#][C#_img]][C#_url]
 [![C++][C++_img]][C++_url]
 [![Python][Python_img]][Python_url]
+[![PHP][PHP_img]][PHP_url]
 [![JavaScript][JavaScript_img]][JavaScript_url]
 
 ### Frameworks and libraries
@@ -51,6 +52,7 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [SQLite_img]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [MicrosoftSQLServer_img]: https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 [MySQL_img]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
+[PHP_img]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -68,3 +70,4 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [SQLite_url]: https://www.sqlite.org/
 [MicrosoftSQLServer_url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 [MySQL_url]: https://www.mysql.com/
+[PHP_url]: https://www.php.net/
