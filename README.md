@@ -17,6 +17,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ### Frameworks and libraries
 [![.Net][.Net_img]][.Net_url]
 [![React][React_img]][React_url]
+[![Vue.js][Vue_img]][Vue_url]
 
 ### Platforms and tools
 [![Visual Studio][Visual Studio_img]][Visual Studio_url]
@@ -57,6 +58,7 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [PHP_img]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [PhpStorm_img]: https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid
 [Rider_img]: https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson
+[Vue_img]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -77,3 +79,4 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [PHP_url]: https://www.php.net/
 [PhpStorm_url]: https://www.jetbrains.com/phpstorm/
 [Rider_url]: https://www.jetbrains.com/rider/
+[Vue_url]: https://vuejs.org/
