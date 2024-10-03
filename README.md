@@ -11,7 +11,6 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![C#][C#_img]][C#_url]
 [![C++][C++_img]][C++_url]
 [![Python][Python_img]][Python_url]
-
 [![PHP][PHP_img]][PHP_url]
 [![JavaScript][JavaScript_img]][JavaScript_url]
 
@@ -24,7 +23,6 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Visual Studio][Visual Studio_img]][Visual Studio_url]
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
 [![Azure][Azure_img]][Azure_url]
-
 [![PhpStorm][PhpStorm_img]][PhpStorm_url]
 [![Rider][Rider_img]][Rider_url]
 
