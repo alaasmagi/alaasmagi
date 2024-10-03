@@ -9,9 +9,8 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ### Porgramming languages
 [![C][C_img]][C_url]
 [![C#][C#_img]][C#_url]
-[![C++][C++_img]][C++_url]
 [![Python][Python_img]][Python_url]
-[![PHP][PHP_img]][PHP_url]
+[![Java][Java_img]][Java_url]
 [![JavaScript][JavaScript_img]][JavaScript_url]
 
 ### Frameworks and libraries
@@ -42,7 +41,6 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 <!-- Images -->
 [C_img]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
 [C#_img]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
-[C++_img]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [Python_img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [JavaScript_img]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [.Net_img]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
@@ -55,15 +53,14 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [SQLite_img]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [MicrosoftSQLServer_img]: https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 [MySQL_img]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-[PHP_img]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [PhpStorm_img]: https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid
 [Rider_img]: https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson
 [Vue_img]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+[Java_img]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
 [C#_url]: https://dotnet.microsoft.com/en-us/languages/csharp
-[C++_url]: https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170
 [Python_url]: https://www.python.org/
 [JavaScript_url]: https://www.javascript.com/
 [.Net_url]: https://dotnet.microsoft.com/en-us/
@@ -76,7 +73,7 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [SQLite_url]: https://www.sqlite.org/
 [MicrosoftSQLServer_url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 [MySQL_url]: https://www.mysql.com/
-[PHP_url]: https://www.php.net/
 [PhpStorm_url]: https://www.jetbrains.com/phpstorm/
 [Rider_url]: https://www.jetbrains.com/rider/
 [Vue_url]: https://vuejs.org/
+[Java_url]: https://www.java.com/en/
