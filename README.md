@@ -12,6 +12,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Python][Python_img]][Python_url]
 [![Java][Java_img]][Java_url]
 [![JavaScript][JavaScript_img]][JavaScript_url]
+[![PHP][PHP_img]][PHP_url]
 
 ### Frameworks and libraries
 [![.Net][.Net_img]][.Net_url]
@@ -52,9 +53,10 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [SQLite_img]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [MicrosoftSQLServer_img]: https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 [MySQL_img]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-[Vue_img]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D
+<!-- [Vue_img]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D -->
 [Java_img]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [CSS_img]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[PHP_img]: https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -71,6 +73,7 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [SQLite_url]: https://www.sqlite.org/
 [MicrosoftSQLServer_url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 [MySQL_url]: https://www.mysql.com/
-[Vue_url]: https://vuejs.org/
+<!-- [Vue_url]: https://vuejs.org/ -->
 [Java_url]: https://www.java.com/en/
 [CSS_url]: https://www.w3schools.com/css/
+[PHP_url]: https://www.php.net/
