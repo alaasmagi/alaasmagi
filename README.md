@@ -7,10 +7,11 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ## Skillset
 
 ### Porgramming languages
-[![C][C_img]][C_url]
 [![C#][C#_img]][C#_url]
+[![C][C_img]][C_url]
+[![C++][C++_img]][C++_url]
+[![Java][Java_img]][Java_url]  
 [![Python][Python_img]][Python_url]
-[![Java][Java_img]][Java_url]
 [![JavaScript][JavaScript_img]][JavaScript_url]
 [![PHP][PHP_img]][PHP_url]
 
@@ -69,6 +70,7 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [TailwindCSS_img]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [IntelliJ_img]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 [Docker_img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[C++_img]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -95,3 +97,4 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [TailwindCSS_url]: https://tailwindcss.com/
 [IntelliJ_url]: https://www.jetbrains.com/idea/
 [Docker_url]: https://www.docker.com/
+[C++_url]: https://www.w3schools.com/cpp/cpp_intro.asp
