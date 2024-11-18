@@ -22,7 +22,9 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ### Platforms and tools
 [![Visual Studio][Visual Studio_img]][Visual Studio_url]
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
-[![Azure][Azure_img]][Azure_url]
+[![Azure][Azure_img]][Azure_url]  
+[![PhpStorm][PhpStorm_img]][PhpStorm_url]
+[![Rider][Rider_img]][Rider_url]
 [![CSS][CSS_img]][CSS_url]
 
 ### Hardware experience
@@ -57,6 +59,8 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [Java_img]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [CSS_img]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [PHP_img]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+[PhpStorm_img]: https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid
+[Rider_img]: https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
