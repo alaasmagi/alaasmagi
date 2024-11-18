@@ -23,9 +23,12 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Visual Studio][Visual Studio_img]][Visual Studio_url]
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
 [![Azure][Azure_img]][Azure_url]  
-[![PhpStorm][PhpStorm_img]][PhpStorm_url]
 [![Rider][Rider_img]][Rider_url]
+[![PhpStorm][PhpStorm_img]][PhpStorm_url]
+[![IntelliJ IDEA][IntelliJ_img]][IntelliJ_url]  
 [![CSS][CSS_img]][CSS_url]
+[![TailwindCSS][TailwindCSS_img][TailwindCSS_url]
+[![NodeJS][NodeJS_img]][NodeJS_url]
 
 ### Hardware experience
 [![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
@@ -61,6 +64,9 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [PHP_img]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [PhpStorm_img]: https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid
 [Rider_img]: https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson
+[NodeJS_img]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+[TailwindCSS_img]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[IntelliJ_img]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -81,3 +87,8 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [Java_url]: https://www.java.com/en/
 [CSS_url]: https://www.w3schools.com/css/
 [PHP_url]: https://www.php.net/
+[PhpStorm_url]: https://www.jetbrains.com/phpstorm/
+[Rider_url]: https://www.jetbrains.com/rider/
+[NodeJS_url]: https://nodejs.org/en
+[TailwindCSS_url]: https://tailwindcss.com/
+[IntelliJ_url]: https://www.jetbrains.com/idea/
