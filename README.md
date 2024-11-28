@@ -31,6 +31,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![TailwindCSS][TailwindCSS_img]][TailwindCSS_url]
 [![NodeJS][NodeJS_img]][NodeJS_url]
 [![Docker][Docker_img]][Docker_url]
+[![Figma][Figma_img]][Figma_url]
 
 ### Hardware experience
 [![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
@@ -71,6 +72,7 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [IntelliJ_img]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 [Docker_img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [C++_img]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[Figma_img]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -98,3 +100,4 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [IntelliJ_url]: https://www.jetbrains.com/idea/
 [Docker_url]: https://www.docker.com/
 [C++_url]: https://www.w3schools.com/cpp/cpp_intro.asp
+[Figma_url]: https://www.figma.com/
