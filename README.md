@@ -28,7 +28,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
 [![Azure][Azure_img]][Azure_url]  
 [![CSS][CSS_img]][CSS_url]
-[![TailwindCSS][TailwindCSS_img]][TailwindCSS_url]
+<!-- [![TailwindCSS][TailwindCSS_img]][TailwindCSS_url] -->
 [![NodeJS][NodeJS_img]][NodeJS_url]
 [![Docker][Docker_img]][Docker_url]
 [![Figma][Figma_img]][Figma_url]
@@ -68,7 +68,7 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [PhpStorm_img]: https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid
 [Rider_img]: https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson
 [NodeJS_img]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[TailwindCSS_img]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+<!-- [TailwindCSS_img]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white -->
 [IntelliJ_img]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 [Docker_img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [C++_img]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
@@ -96,7 +96,7 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [PhpStorm_url]: https://www.jetbrains.com/phpstorm/
 [Rider_url]: https://www.jetbrains.com/rider/
 [NodeJS_url]: https://nodejs.org/en
-[TailwindCSS_url]: https://tailwindcss.com/
+<!-- [TailwindCSS_url]: https://tailwindcss.com/ -->
 [IntelliJ_url]: https://www.jetbrains.com/idea/
 [Docker_url]: https://www.docker.com/
 [C++_url]: https://www.w3schools.com/cpp/cpp_intro.asp
