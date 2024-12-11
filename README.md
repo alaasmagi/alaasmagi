@@ -6,7 +6,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 
 ## Skillset
 
-### Porgramming languages
+### Programming languages
 [![C#][C#_img]][C#_url]
 [![C][C_img]][C_url]
 [![C++][C++_img]][C++_url]
