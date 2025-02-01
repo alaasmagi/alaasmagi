@@ -10,7 +10,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![C#][C#_img]][C#_url]
 [![C][C_img]][C_url]
 [![C++][C++_img]][C++_url]
-[![Java][Java_img]][Java_url]  
+[![TypeScript][TypeScript_img]][TypeScript_url]
 [![Python][Python_img]][Python_url]
 [![JavaScript][JavaScript_img]][JavaScript_url]
 [![PHP][PHP_img]][PHP_url]
@@ -18,7 +18,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ### Frameworks and libraries
 [![.Net][.Net_img]][.Net_url]
 [![React][React_img]][React_url]
-<!-- [![Vue.js][Vue_img]][Vue_url] -->
+[![React Native][ReactNative_img]][ReactNative_url]
 
 ### Platforms and tools
 [![Rider][Rider_img]][Rider_url]
@@ -31,7 +31,6 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![NodeJS][NodeJS_img]][NodeJS_url]
 [![Docker][Docker_img]][Docker_url]
 [![Figma][Figma_img]][Figma_url]
-<!-- [![TailwindCSS][TailwindCSS_img]][TailwindCSS_url] -->
 
 ### Hardware experience
 [![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
@@ -61,18 +60,17 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [SQLite_img]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [MicrosoftSQLServer_img]: https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
 [MySQL_img]: https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white
-<!-- [Vue_img]: https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D -->
-[Java_img]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [CSS_img]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
 [PHP_img]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
 [PhpStorm_img]: https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid
 [Rider_img]: https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson
 [NodeJS_img]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-<!-- [TailwindCSS_img]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white -->
 [IntelliJ_img]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 [Docker_img]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[TypeScript_img]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [C++_img]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [Figma_img]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+[ReactNative_img]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -89,15 +87,14 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [SQLite_url]: https://www.sqlite.org/
 [MicrosoftSQLServer_url]: https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 [MySQL_url]: https://www.mysql.com/
-<!-- [Vue_url]: https://vuejs.org/ -->
-[Java_url]: https://www.java.com/en/
 [CSS_url]: https://www.w3schools.com/css/
 [PHP_url]: https://www.php.net/
 [PhpStorm_url]: https://www.jetbrains.com/phpstorm/
 [Rider_url]: https://www.jetbrains.com/rider/
 [NodeJS_url]: https://nodejs.org/en
-<!-- [TailwindCSS_url]: https://tailwindcss.com/ -->
 [IntelliJ_url]: https://www.jetbrains.com/idea/
 [Docker_url]: https://www.docker.com/
+[TypeScript_url]: https://www.typescriptlang.org/
 [C++_url]: https://www.w3schools.com/cpp/cpp_intro.asp
 [Figma_url]: https://www.figma.com/
+[ReactNative_url]: https://reactnative.dev/
