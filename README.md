@@ -28,6 +28,8 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
 [![Azure][Azure_img]][Azure_url]  
 [![CSS][CSS_img]][CSS_url]
+[![TailwindCSS][Tailwind_img]][Tailwind_url]
+[![Bootstrap][Bootstrap_img]][Bootstrap_url]
 [![Docker][Docker_img]][Docker_url]
 [![Figma][Figma_img]][Figma_url]
 
@@ -70,6 +72,8 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [C++_img]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [Figma_img]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
 [ReactNative_img]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+[Tailwind_img]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Bootstrap_img]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -97,3 +101,5 @@ As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) 
 [C++_url]: https://www.w3schools.com/cpp/cpp_intro.asp
 [Figma_url]: https://www.figma.com/
 [ReactNative_url]: https://reactnative.dev/
+[Tailwind_url]:https://tailwindcss.com/
+[Bootstrap_url]:https://getbootstrap.com/
