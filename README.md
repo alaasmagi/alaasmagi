@@ -28,7 +28,6 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
 [![Azure][Azure_img]][Azure_url]  
 [![CSS][CSS_img]][CSS_url]
-[![NodeJS][NodeJS_img]][NodeJS_url]
 [![Docker][Docker_img]][Docker_url]
 [![Figma][Figma_img]][Figma_url]
 
