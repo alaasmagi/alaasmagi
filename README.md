@@ -43,7 +43,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![MySQL][MySQL_img]][MySQL_url]
 
 ## Current projects
-As [one of my university projects](https://github.com/alaasmagi/Toitumispaevik) turned out exceptionally well, I'm currently enhancing it to be more feature-rich and powerful.
+I'm currently working on my Bachelor's final thesis. [Backend](https://github.com/alaasmagi/educode-backend) and [Mobile UI](https://github.com/alaasmagi/educode-mobile) part of the system are already available to explore, but they are still under active development. 
 
 
 <!-- Images -->
