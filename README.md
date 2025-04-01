@@ -10,7 +10,8 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![C#][C#_img]][C#_url]
 [![C][C_img]][C_url]
 [![C++][C++_img]][C++_url]
-[![Python][Python_img]][Python_url]  
+[![Python][Python_img]][Python_url]
+[![Java][Java_img]][Java_url]  
 [![JavaScript][JavaScript_img]][JavaScript_url]
 [![TypeScript][TypeScript_img]][TypeScript_url]
 [![PHP][PHP_img]][PHP_url]
@@ -50,6 +51,7 @@ I'm currently working on my Bachelor's final thesis. [Backend](https://github.co
 [C_img]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
 [C#_img]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white
 [Python_img]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Java_img]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
 [JavaScript_img]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 [.Net_img]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
 [React_img]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
@@ -79,6 +81,7 @@ I'm currently working on my Bachelor's final thesis. [Backend](https://github.co
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
 [C#_url]: https://dotnet.microsoft.com/en-us/languages/csharp
 [Python_url]: https://www.python.org/
+[Java_url]: https://www.java.com/en/
 [JavaScript_url]: https://www.javascript.com/
 [.Net_url]: https://dotnet.microsoft.com/en-us/
 [React_url]: https://react.dev/
