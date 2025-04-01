@@ -21,6 +21,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![React][React_img]][React_url]
 [![React Native][ReactNative_img]][ReactNative_url]  
 [![Spring][Spring_img]][Spring_url]
+[![Svelte_img]][Svelte_url]
 
 ### Platforms and tools
 [![Rider][Rider_img]][Rider_url]
@@ -78,6 +79,7 @@ I'm currently working on my Bachelor's final thesis. [Backend](https://github.co
 [Tailwind_img]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Bootstrap_img]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [Spring_img]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
+[Svelte_img]: https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -108,4 +110,5 @@ I'm currently working on my Bachelor's final thesis. [Backend](https://github.co
 [ReactNative_url]: https://reactnative.dev/
 [Tailwind_url]:https://tailwindcss.com/
 [Bootstrap_url]:https://getbootstrap.com/
-[Spring_img]: https://spring.io/
+[Spring_url]: https://spring.io/
+[Svelte_url]: https://svelte.dev/
