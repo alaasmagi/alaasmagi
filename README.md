@@ -9,7 +9,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ### Programming languages
 [![C#][C#_img]][C#_url]
 [![C][C_img]][C_url]
-[![C++][C++_img]][C++_url]
+[![Go][Go_img]][Go_url]
 [![Python][Python_img]][Python_url]
 [![PHP][PHP_img]][PHP_url]  
 [![JavaScript][JavaScript_img]][JavaScript_url]
@@ -29,8 +29,8 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![IntelliJ IDEA][IntelliJ_img]][IntelliJ_url]  
 [![Visual Studio][Visual Studio_img]][Visual Studio_url]
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
-[![Azure][Azure_img]][Azure_url]  
-[![CSS][CSS_img]][CSS_url]
+[![Azure][Azure_img]][Azure_url]
+[![CSS][CSS_img]][CSS_url]  
 [![TailwindCSS][Tailwind_img]][Tailwind_url]
 [![Bootstrap][Bootstrap_img]][Bootstrap_url]
 [![Docker][Docker_img]][Docker_url]
@@ -80,6 +80,9 @@ I'm currently working on my Bachelor's final thesis. [Backend](https://github.co
 [Bootstrap_img]: https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white
 [Spring_img]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [Svelte_img]: https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white
+[Go_img]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[Postgres_img]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
+[Redis_img]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -112,3 +115,6 @@ I'm currently working on my Bachelor's final thesis. [Backend](https://github.co
 [Bootstrap_url]:https://getbootstrap.com/
 [Spring_url]: https://spring.io/
 [Svelte_url]: https://svelte.dev/
+[Go_url]: https://go.dev/
+[Postgres_url]: https://www.postgresql.org/
+[Redis_url]: https://redis.io/
