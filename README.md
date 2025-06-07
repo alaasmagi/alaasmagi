@@ -36,16 +36,16 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Docker][Docker_img]][Docker_url]
 [![Figma][Figma_img]][Figma_url]
 
-### Hardware experience
-[![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
-[![Arduino][Arduino_img]][Arduino_url]
-
 ### Database management
 [![MySQL][MySQL_img]][MySQL_url]
 [![PostgreSQL][Postgres_img]][Postgres_url]
 [![Redis][Redis_img]][Redis_url]  
 [![SQLite][SQLite_img]][SQLite_url]
 [![MicrosoftSQLServer][MicrosoftSQLServer_img]][MicrosoftSQLServer_url]
+
+### Hardware experience
+[![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
+[![Arduino][Arduino_img]][Arduino_url]
 
 ## Current projects
 I'm currently working on my Bachelor's final thesis. [Backend](https://github.com/alaasmagi/educode-backend) and [Mobile UI](https://github.com/alaasmagi/educode-mobile) part of the system are already available to explore, but they are still under active development. 
