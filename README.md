@@ -48,7 +48,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Arduino][Arduino_img]][Arduino_url]
 
 ## Current projects
-I'm currently working on my Bachelor's final thesis. [Backend](https://github.com/alaasmagi/educode-backend) and [Mobile UI](https://github.com/alaasmagi/educode-mobile) part of the system are already available to explore, but they are still under active development. 
+I'm currently working on my Bachelor's final thesis. All parts of the system ([Backend](https://github.com/alaasmagi/educode-backend), [Mobile UI](https://github.com/alaasmagi/educode-mobile) & [Web UI](https://github.com/alaasmagi/educode-web)) are already available to explore, but they are still under active development. 
 
 
 <!-- Images -->
