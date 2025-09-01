@@ -20,6 +20,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![.Net][.Net_img]][.Net_url]
 [![React][React_img]][React_url]
 [![React Native][ReactNative_img]][ReactNative_url]  
+[![Laravel][Laravel_img]][Laravel_url]
 [![Spring][Spring_img]][Spring_url]
 [![Svelte_img]][Svelte_url]
 
@@ -85,6 +86,7 @@ I'm currently working on my Bachelor's final thesis. All parts of the system ([B
 [Go_img]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
 [Postgres_img]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [Redis_img]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
+[Laravel_img]: https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -120,3 +122,4 @@ I'm currently working on my Bachelor's final thesis. All parts of the system ([B
 [Go_url]: https://go.dev/
 [Postgres_url]: https://www.postgresql.org/
 [Redis_url]: https://redis.io/
+[Laravel_url]: https://laravel.com/
