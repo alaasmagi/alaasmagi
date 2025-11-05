@@ -37,7 +37,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Docker][Docker_img]][Docker_url]
 [![Figma][Figma_img]][Figma_url]
 
-### Database management
+### Data management
 [![MySQL][MySQL_img]][MySQL_url]
 [![PostgreSQL][Postgres_img]][Postgres_url]
 [![Redis][Redis_img]][Redis_url]  
@@ -87,6 +87,12 @@ I'm currently working on my Bachelor's final thesis. All parts of the system ([B
 [Postgres_img]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
 [Redis_img]: https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white
 [Laravel_img]: https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white
+[Dart_img]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white
+[Flutter_img]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
+[AWS_img]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[K8s_img]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+[Firebase_img]:
+[Supabase_img]: 
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
@@ -123,3 +129,9 @@ I'm currently working on my Bachelor's final thesis. All parts of the system ([B
 [Postgres_url]: https://www.postgresql.org/
 [Redis_url]: https://redis.io/
 [Laravel_url]: https://laravel.com/
+[Dart_url]: https://dart.dev/
+[Flutter_url]: https://flutter.dev/
+[AWS_url]: https://aws.amazon.com/
+[K8s_url]: https://kubernetes.io/
+[Firebase_url]: https://firebase.google.com/
+[Supabase_url]: https://supabase.com/
