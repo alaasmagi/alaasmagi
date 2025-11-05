@@ -23,7 +23,6 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![React Native][ReactNative_img]][ReactNative_url]  
 [![Laravel][Laravel_img]][Laravel_url]
 [![Spring][Spring_img]][Spring_url]
-[![Svelte][Svelte_img]][Svelte_url]
 [![Flutter][Flutter_img]][Flutter_url]
 
 ### Platforms and tools
