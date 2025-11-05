@@ -14,7 +14,8 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![PHP][PHP_img]][PHP_url]  
 [![JavaScript][JavaScript_img]][JavaScript_url]
 [![TypeScript][TypeScript_img]][TypeScript_url]
-[![Java][Java_img]][Java_url] 
+[![Java][Java_img]][Java_url]
+[![Dart][Dart_img]][Dart_url]
 
 ### Frameworks and libraries
 [![.Net][.Net_img]][.Net_url]
@@ -22,7 +23,8 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![React Native][ReactNative_img]][ReactNative_url]  
 [![Laravel][Laravel_img]][Laravel_url]
 [![Spring][Spring_img]][Spring_url]
-[![Svelte_img]][Svelte_url]
+[![Svelte][Svelte_img]][Svelte_url]
+[![Flutter][Flutter_img]][Flutter_url]
 
 ### Platforms and tools
 [![Rider][Rider_img]][Rider_url]
@@ -36,6 +38,9 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Bootstrap][Bootstrap_img]][Bootstrap_url]
 [![Docker][Docker_img]][Docker_url]
 [![Figma][Figma_img]][Figma_url]
+[![AWS][AWS_img]][AWS_url]
+[![Firebase][Firebase_img]][Firebase_url]
+[![Supabase][Supabase_img]][Supabase_url]
 
 ### Data management
 [![MySQL][MySQL_img]][MySQL_url]
@@ -91,8 +96,8 @@ I'm currently working on my Bachelor's final thesis. All parts of the system ([B
 [Flutter_img]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white
 [AWS_img]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [K8s_img]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
-[Firebase_img]:
-[Supabase_img]: 
+[Firebase_img]: https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34
+[Supabase_img]: https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
 
 <!-- URLs -->
 [C_url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
