@@ -33,14 +33,13 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Visual Studio][Visual Studio_img]][Visual Studio_url]
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]
 [![Azure][Azure_img]][Azure_url]
-[![CSS][CSS_img]][CSS_url]  
+[![AWS][AWS_img]][AWS_url]
+[![Supabase][Supabase_img]][Supabase_url]  
 [![TailwindCSS][Tailwind_img]][Tailwind_url]
 [![Bootstrap][Bootstrap_img]][Bootstrap_url]
 [![Docker][Docker_img]][Docker_url]
 [![Figma][Figma_img]][Figma_url]
-[![AWS][AWS_img]][AWS_url]
 [![Firebase][Firebase_img]][Firebase_url]
-[![Supabase][Supabase_img]][Supabase_url]
 
 ### Data management
 [![MySQL][MySQL_img]][MySQL_url]
