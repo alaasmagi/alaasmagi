@@ -26,20 +26,21 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Flutter][Flutter_img]][Flutter_url]
 
 ### Platforms and tools
+[![Azure][Azure_img]][Azure_url]
+[![AWS][AWS_img]][AWS_url]
+[![Kubernetes][K8s_img]][K8s_url]
+[![Docker][Docker_img]][Docker_url]  
 [![Rider][Rider_img]][Rider_url]
 [![PhpStorm][PhpStorm_img]][PhpStorm_url]
 [![IntelliJ IDEA][IntelliJ_img]][IntelliJ_url]
 [![Visual Studio][Visual Studio_img]][Visual Studio_url]
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]  
-[![Supabase][Supabase_img]][Supabase_url]
-[![Firebase][Firebase_img]][Firebase_url]  
 [![TailwindCSS][Tailwind_img]][Tailwind_url]
 [![Bootstrap][Bootstrap_img]][Bootstrap_url]
-[![Figma][Figma_img]][Figma_url]  
-[![Azure][Azure_img]][Azure_url]
-[![AWS][AWS_img]][AWS_url]
-[![Kubernetes][K8s_img]][K8s_url]
-[![Docker][Docker_img]][Docker_url]
+[![Figma][Figma_img]][Figma_url]
+[![Supabase][Supabase_img]][Supabase_url]
+[![Firebase][Firebase_img]][Firebase_url]  
+
 
 ### Data management
 [![MySQL][MySQL_img]][MySQL_url]
