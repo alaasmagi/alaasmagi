@@ -11,10 +11,10 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![C][C_img]][C_url]
 [![Go][Go_img]][Go_url]
 [![Python][Python_img]][Python_url]
-[![PHP][PHP_img]][PHP_url]  
+[![PHP][PHP_img]][PHP_url]
+[![Java][Java_img]][Java_url]  
 [![JavaScript][JavaScript_img]][JavaScript_url]
 [![TypeScript][TypeScript_img]][TypeScript_url]
-[![Java][Java_img]][Java_url]
 [![Dart][Dart_img]][Dart_url]
 
 ### Frameworks and libraries
