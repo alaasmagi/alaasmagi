@@ -19,11 +19,12 @@ Feel free to explore my repositories and get in touch if you have any questions 
 
 ### Frameworks and libraries
 [![.Net][.Net_img]][.Net_url]
-[![React][React_img]][React_url]
-[![React Native][ReactNative_img]][ReactNative_url]  
 [![Laravel][Laravel_img]][Laravel_url]
-[![Spring][Spring_img]][Spring_url]
+[![Spring][Spring_img]][Spring_url]  
+[![React][React_img]][React_url]
+[![React Native][ReactNative_img]][ReactNative_url]
 [![Flutter][Flutter_img]][Flutter_url]
+[![Svelte][Svelte_img]][Svelte_url]
 
 ### Platforms and tools
 [![Azure][Azure_img]][Azure_url]
