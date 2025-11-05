@@ -35,11 +35,12 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Supabase][Supabase_img]][Supabase_url]  
 [![TailwindCSS][Tailwind_img]][Tailwind_url]
 [![Bootstrap][Bootstrap_img]][Bootstrap_url]
-[![Docker][Docker_img]][Docker_url]
 [![Figma][Figma_img]][Figma_url]
 [![Firebase][Firebase_img]][Firebase_url]  
 [![Azure][Azure_img]][Azure_url]
 [![AWS][AWS_img]][AWS_url]
+[![Kubernetes][K8s_img]][K8s_url]
+[![Docker][Docker_img]][Docker_url]
 
 ### Data management
 [![MySQL][MySQL_img]][MySQL_url]
