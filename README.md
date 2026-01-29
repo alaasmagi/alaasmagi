@@ -61,7 +61,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ---
 
 # Current projects
-I'm currently working on my Bachelor's final thesis. All parts of the system ([Backend](https://github.com/alaasmagi/educode-backend), [Mobile UI](https://github.com/alaasmagi/educode-mobile) & [Web UI](https://github.com/alaasmagi/educode-web)) are already available to explore, but they are still under active development. 
+I'm currently working on [EduCode](https://github.com/alaasmagi/educode), a QR-code based attendance system. 
 
 
 <!-- Images -->
