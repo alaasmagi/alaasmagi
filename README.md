@@ -1,8 +1,13 @@
-# About me
+# Introduction
+I'm a passionate software developer who completed a Bachelor's degree with a focus on software and web development and I'm currently pursuing a Master's degree in Computer Science, specializing in software architecture, artificial intelligence, machine learning and IT management.
 
-My deep interest in information technology began when I was five years old, when I discovered the endless possibilities of computers. Over the years, this passion has only grown – every new project or discovery has made me feel that I want to learn even more. When I started studying at university, I set myself the goal of acquiring as broad a base of knowledge as possible so that I can one day create solutions that genuinely improve people’s lives.
+# My Story
+
+My journey into IT began when I was five years old and got my hands on a computer for the first time. Initially, I was fascinated by networks - diving into YouTube tech content, setting up and hosting Minecraft servers and eventually building the entire home network infrastructure that my parents still rely on today. By the end of elementary school and through high school, I had moved into programming, teaching myself Python and attending a programming course. That early curiosity has evolved into a deep commitment to building software that solves real problems.
 
 Feel free to explore my repositories and get in touch if you have any questions :)
+
+---
 
 ## Skillset
 
@@ -52,6 +57,8 @@ Feel free to explore my repositories and get in touch if you have any questions 
 ### Hardware experience
 [![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
 [![Arduino][Arduino_img]][Arduino_url]
+
+---
 
 ## Current projects
 I'm currently working on my Bachelor's final thesis. All parts of the system ([Backend](https://github.com/alaasmagi/educode-backend), [Mobile UI](https://github.com/alaasmagi/educode-mobile) & [Web UI](https://github.com/alaasmagi/educode-web)) are already available to explore, but they are still under active development. 
