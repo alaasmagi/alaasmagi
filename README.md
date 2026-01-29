@@ -65,9 +65,9 @@ I'm currently working on [EduCode](https://github.com/alaasmagi/educode), a QR-c
 
 ---
 # Connect
-- Portfolio: [alaasmagi.dev](https://www.alaasmagi.dev)
-- LinkedIn: [alaasmagi](https://www.linkedin.com/in/alaasmagi/)
-- Email: [aleksander.laasmagi@gmail.com](mailto:aleksander.laasmagi@gmail.com)
+**Portfolio:** [alaasmagi.dev](https://www.alaasmagi.dev)  
+**LinkedIn:** [alaasmagi](https://www.linkedin.com/in/alaasmagi/)  
+**Email:** [aleksander.laasmagi@gmail.com](mailto:aleksander.laasmagi@gmail.com)
 
 
 <!-- Images -->
