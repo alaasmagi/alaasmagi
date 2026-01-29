@@ -1,5 +1,5 @@
 # Introduction
-I'm a passionate software developer who completed a Bachelor's degree with a focus on software and web development and I'm currently pursuing a Master's degree in Computer Science, specializing in software architecture, artificial intelligence, machine learning and IT management.
+I'm a passionate software developer who completed a Bachelor's degree with a focus on software and web development. I'm currently pursuing a Master's degree in Computer Science, specializing in software architecture, artificial intelligence, machine learning, and IT management.
 
 # My Story
 
