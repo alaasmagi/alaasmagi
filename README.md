@@ -63,12 +63,6 @@ Feel free to explore my repositories and get in touch if you have any questions 
 # Current projects
 I'm currently working on [EduCode](https://github.com/alaasmagi/educode), a QR-code based attendance system. 
 
----
-# Connect
-**Portfolio:** [alaasmagi.dev](https://www.alaasmagi.dev)  
-**LinkedIn:** [alaasmagi](https://www.linkedin.com/in/alaasmagi/)  
-**Email:** [aleksander.laasmagi@gmail.com](mailto:aleksander.laasmagi@gmail.com)
-
 
 <!-- Images -->
 [C_img]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
