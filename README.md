@@ -9,9 +9,9 @@ Feel free to explore my repositories and get in touch if you have any questions 
 
 ---
 
-## Skillset
+# Skillset
 
-### Programming languages
+## Programming languages
 [![C#][C#_img]][C#_url]
 [![C][C_img]][C_url]
 [![Go][Go_img]][Go_url]
@@ -22,7 +22,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![TypeScript][TypeScript_img]][TypeScript_url]
 [![Dart][Dart_img]][Dart_url]
 
-### Frameworks and libraries
+## Frameworks and libraries
 [![.Net][.Net_img]][.Net_url]
 [![Laravel][Laravel_img]][Laravel_url]
 [![Spring][Spring_img]][Spring_url]  
@@ -30,7 +30,7 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![React Native][ReactNative_img]][ReactNative_url]
 [![Flutter][Flutter_img]][Flutter_url]
 
-### Platforms and tools
+## Platforms and tools
 [![Azure][Azure_img]][Azure_url]
 [![AWS][AWS_img]][AWS_url]
 [![Kubernetes][K8s_img]][K8s_url]
@@ -47,20 +47,20 @@ Feel free to explore my repositories and get in touch if you have any questions 
 [![Visual Studio Code][Visual Studio Code_img]][Visual Studio Code_url]  
 
 
-### Data management
+## Data management
 [![MySQL][MySQL_img]][MySQL_url]
 [![PostgreSQL][Postgres_img]][Postgres_url]
 [![Redis][Redis_img]][Redis_url]  
 [![SQLite][SQLite_img]][SQLite_url]
 [![MicrosoftSQLServer][MicrosoftSQLServer_img]][MicrosoftSQLServer_url]
 
-### Hardware experience
+## Hardware experience
 [![Raspberry Pi][Raspberry Pi_img]][Raspberry Pi_url]
 [![Arduino][Arduino_img]][Arduino_url]
 
 ---
 
-## Current projects
+# Current projects
 I'm currently working on my Bachelor's final thesis. All parts of the system ([Backend](https://github.com/alaasmagi/educode-backend), [Mobile UI](https://github.com/alaasmagi/educode-mobile) & [Web UI](https://github.com/alaasmagi/educode-web)) are already available to explore, but they are still under active development. 
 
 
